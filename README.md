@@ -1,9 +1,13 @@
 https://openliberty.io/ 
 https://openliberty.io/start/  
 
-see above links for more information
-
-
+see above links for more information  
+.  
+.  
+.  
+.  
+.  
+.  
 
 
 Texts from Open Liberty downloaded project
