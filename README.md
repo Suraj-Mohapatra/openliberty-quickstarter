@@ -3,6 +3,10 @@ https://openliberty.io/
 https://openliberty.io/start/  
 
 see above links for more information  
+
+mvn liberty:dev  
+
+http://localhost:8080/openliberty-quickstarter/api/hello  
 .  
 .  
 .  
